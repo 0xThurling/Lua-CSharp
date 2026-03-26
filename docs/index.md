@@ -6,6 +6,7 @@ Welcome to the Lua-CSharp documentation. Lua-CSharp is a high-performance Lua in
 
 - [Getting Started](getting-started.md) - Installation and basic usage
 - [Core Concepts](core-concepts.md) - LuaValue, LuaTable, LuaFunction
+- [Calling Functions](calling-functions.md) - C# to Lua and Lua to C# function calls
 - [API Reference](api-reference.md) - Complete API documentation
 - [Standard Libraries](standard-libraries.md) - Lua standard library implementations
 - [Advanced Topics](advanced-topics.md) - Async/await, coroutines, metamethods
